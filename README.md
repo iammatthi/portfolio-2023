@@ -36,7 +36,7 @@
 
 ## About The Project
 
-This repository contains my portfolio for the year 2023, with a minimalistic design.
+This repository features my 2023 portfolio, characterized by a minimalistic design enriched with animations.
 
 
 ### Built With
