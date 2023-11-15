@@ -6,8 +6,9 @@
   <p align="center">
     Welcome to my portfolio 2023!
   </p>
-  
-  ![demo](https://github.com/iammatthi/portfolio-2023/assets/40419916/c63f5a34-bc92-4361-91af-1966c8ce2a37)
+
+  ![demo](https://github.com/iammatthi/portfolio-2023/assets/40419916/ceadc044-7560-4d9c-9898-30c55ef08ec1)
+
 
 </div>
 
